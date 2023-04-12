@@ -1,2 +1,0 @@
-Click the .mcpack file it will direct you to your Minecraft app.
-Make sure before you do this step, your Minecraft is not running on your device.
