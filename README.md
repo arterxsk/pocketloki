@@ -10,7 +10,7 @@
 
 # Installation
 
-1. Click the folder you want.
+1. Click the View source & folder you want.
 2. Click available download links.
 3. After you download the files, click it.
 4. It will redirect to your Minecraft app or click the app manually.
