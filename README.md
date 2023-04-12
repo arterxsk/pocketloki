@@ -8,10 +8,6 @@
 # Social Links
 [![](https://dcbadge.vercel.app/api/server/R89XUt7uMa)](https://discord.gg/R89XUt7uMa)
 
-# PocketLoki Own Discord Bot
-
-![plastic](https://dcbadge.vercel.app/api/shield/1048883477149392928?bot=true&style=plastic)
-
 # Installation
 
 1. Click the View code & folder you want.
