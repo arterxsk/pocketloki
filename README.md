@@ -2,4 +2,6 @@
 • [Discord Server](https://dsc.gg/pocketloki)
 
 # Guide:
-• Click the folder you want and you will see the download link.
+• Click View code.
+• Click the folder you want.
+• Download and done.
