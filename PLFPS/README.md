@@ -10,7 +10,7 @@
 
 # Version History
 
-* **Changelogs** - ** - [1.0.1](https://github.com/artsvn/plfps/blob/main/PLFPS/changelogs.txt) - **
+* **Changelogs** - [1.0.1](https://github.com/artsvn/plfps/blob/main/PLFPS/changelogs.txt)
 
 # Download Links
 
