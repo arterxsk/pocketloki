@@ -1,4 +1,4 @@
-# PLFPS v1.0.1
+# PocketLoki FPS
 
 • **Changelogs**:
 
