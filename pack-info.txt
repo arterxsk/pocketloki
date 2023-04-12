@@ -1,3 +1,4 @@
+// v1.0.0
 Borderless Glass Variants
 Bottom Chat
 Chat Tweaks
