@@ -16,6 +16,6 @@
 4. It will redirect to your Minecraft app or click the app manually.
 5. Done, enjoy!
 
-## Acknowledgements
+# Social Links
 
 * [Discord Server](https://dsc.gg/pocketloki)
