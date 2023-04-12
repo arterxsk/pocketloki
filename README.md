@@ -6,6 +6,7 @@
 </p>
 
 # Social Links
+![](https://discordapp.com/api/guilds/1082401271098638417/widget.png?style=banner2)
 [![](https://dcbadge.vercel.app/api/server/R89XUt7uMa)](https://discord.gg/R89XUt7uMa)
 
 # Installation
