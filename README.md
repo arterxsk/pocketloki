@@ -10,11 +10,11 @@
 [![](https://dcbadge.vercel.app/api/server/R89XUt7uMa)](https://discord.gg/R89XUt7uMa)
 
 # Our Discord Bot
-[![PocketLoki](https://img.shields.io/badge/PocketLoki-TicketBot-0B0B0B?logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1082425019218546868%2F1095767985853042970%2Fpack_icon.png)](https://discord.com/api/oauth2/authorize?client_id=1048883477149392928&permissions=8&scope=bot%20applications.commands)<br>
-[![PocketLoki](https://img.shields.io/badge/PocketLoki-GiveawayBot-0B0B0B?logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1082425019218546868%2F1095767985853042970%2Fpack_icon.png)](https://discord.com/api/oauth2/authorize?client_id=1063250459118276618&permissions=8&scope=bot%20applications.commands)
+* [![PocketLoki](https://img.shields.io/badge/PocketLoki-TicketBot-0B0B0B?logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1082425019218546868%2F1095767985853042970%2Fpack_icon.png)](https://discord.com/api/oauth2/authorize?client_id=1048883477149392928&permissions=8&scope=bot%20applications.commands)<br>
+* [![PocketLoki](https://img.shields.io/badge/PocketLoki-GiveawayBot-0B0B0B?logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1082425019218546868%2F1095767985853042970%2Fpack_icon.png)](https://discord.com/api/oauth2/authorize?client_id=1063250459118276618&permissions=8&scope=bot%20applications.commands)
 
 # Download Links
 
-**Minecraft Bedrock RP**<br>
-[![PLFPS - MediaFire](https://img.shields.io/badge/Download-PLFPS-0B0B0B?style=for-the-badge&logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://rb.gy/56x8l)
+**Resource Pack BE**<br>
+* [![PLFPS - MediaFire](https://img.shields.io/badge/Download-PLFPS-0B0B0B?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://rb.gy/56x8l)
 
