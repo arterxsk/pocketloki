@@ -12,12 +12,3 @@
 # Our Discord Bot
 [![PocketLoki](https://img.shields.io/badge/PocketLoki-TicketBot-0B0B0B?logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1082425019218546868%2F1095767985853042970%2Fpack_icon.png)](https://discord.com/api/oauth2/authorize?client_id=1048883477149392928&permissions=8&scope=bot%20applications.commands)
 [![PocketLoki](https://img.shields.io/badge/PocketLoki-GiveawayBot-0B0B0B?logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1082425019218546868%2F1095767985853042970%2Fpack_icon.png)](https://discord.com/api/oauth2/authorize?client_id=1063250459118276618&permissions=8&scope=bot%20applications.commands)
-
-
-# Installation
-
-1. Click the View code & folder you want.
-2. Click available download links.
-3. After you download the files, click it.
-4. It will redirect to your Minecraft app or click the app manually.
-5. Done, enjoy!
