@@ -17,7 +17,8 @@
 ![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096489287878463619/Screenshot_20230415_011919.jpg)
 ![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096489224645136445/Screenshot_20230415_012225.jpg)
 ![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096492972448682104/Screenshot_2023_0415_014954.png)
-
+![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096500837410422804/Screenshot_20230414_093641.jpg)
+![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096500849812967624/Screenshot_20230414_093646.jpg)
 
 ## Features
 
