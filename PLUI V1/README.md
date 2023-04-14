@@ -42,4 +42,6 @@
 * & more, explore the pack!
 
 ## Download
-* [![PLFPS - MediaFire](https://img.shields.io/badge/PLUI-V1-0B0B0B?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://link-center.net/640073/plui-v1)
+
+* [![FILES](https://img.shields.io/badge/FREE-DOWNLOAD-0B0B0B?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://link-center.net/640073/plui-v1)
+* [![FILES](https://img.shields.io/badge/PAID-DOWNLOAD-0B0B0B?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://link-center.net/640073/plui-v1)
