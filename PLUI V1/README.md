@@ -25,7 +25,7 @@
 * Clean Wool
 * Clear Water
 * Custom PVP Sounds
-* Custom Start Screen (Legend’s UI)
+* Custom Start Screen
 * Dark UI
 * Invisible Item Frames
 * Lower Fire
