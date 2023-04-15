@@ -3,15 +3,14 @@
   <a href="https://github.com/artsvn/PocketLoki">
     <img src="https://static1.textcraft.net/data1/b/4/b470a313d4b5040567f714a8975057ed5fa925c8da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070975f6a90f68302a925908dbbefd0a80c0.png" alt="Logo">
   </a>
-  <h3 align="center">PLUI V1</h3>
+  <b><p align="center">PLUI V1</p></b>
 </p>
 
-## Social Links
-![](https://discordapp.com/api/guilds/1082401271098638417/widget.png?style=banner2)<br>
-[![](https://dcbadge.vercel.app/api/server/R89XUt7uMa)](https://discord.gg/R89XUt7uMa)
-[![Donate - Donate](https://img.shields.io/badge/Donate-COFFEE-0b0b0b?style=for-the-badge)](https://lokibot.site/donate)
+[![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://lokibot.site/donate) 
+[![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) 
+[![Download](https://img.shields.io/badge/DOWNLOAD-FILES-ABD4C2?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://link-center.net/640073/plui-v1)
 
-## Screenshot
+**Screenshot**:
 
 ![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096486965517500416/Screenshot_20230415_010631.jpg)
 ![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096489287878463619/Screenshot_20230415_011919.jpg)
@@ -20,7 +19,7 @@
 ![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096500837410422804/Screenshot_20230414_093641.jpg)
 ![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096500849812967624/Screenshot_20230414_093646.jpg)
 
-## Features
+**Features**:
 
 * Bottom Chat
 * Chat Tweaks
@@ -40,7 +39,3 @@
 * Smooth Glass Variants
 * Smooth Netherite Armor
 * & more, explore the pack!
-
-## Download
-
-* [![FILES](https://img.shields.io/badge/PLUI-V1.0.0-0B0B0B?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://link-center.net/640073/plui-v1)
