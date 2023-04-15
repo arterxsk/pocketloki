@@ -8,7 +8,7 @@
 
 [![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://lokibot.site/donate) 
 [![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) 
-[![Download](https://img.shields.io/badge/DOWNLOAD-FILES-ABD4C2?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://link-center.net/640073/plui-v1)
+[![Download](https://img.shields.io/badge/DOWNLOAD-PLUI-ABD4C2?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://link-center.net/640073/plui-v1)
 
 **Screenshot**:
 
