@@ -25,7 +25,7 @@
 * Clean Wool
 * Clear Water
 * Custom PVP Sounds
-* Custom Start Screen (LeGend#1687)
+* Custom Start Screen
 * Dark UI
 * Invisible Item Frames
 * Lower Fire
@@ -40,3 +40,6 @@
 * Smooth Glass Variants
 * Smooth Netherite Armor
 * & more, explore the pack!
+
+**Credits**:
+* [Start Screen UI](https://mcpedl.com/legend-s-ui-pack/) – [@Legend077](https://github.com/LeGend077)
