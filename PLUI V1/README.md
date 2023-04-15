@@ -20,11 +20,11 @@
 ![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096500849812967624/Screenshot_20230414_093646.jpg)
 
 **Features**:
-
 * Bottom Chat
 * Chat Tweaks
 * Clean Wool
 * Clear Water
+* Custom PVP Sounds
 * Dark & Better UI
 * Invisible Item Frames
 * Lower Fire
