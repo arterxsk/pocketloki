@@ -8,16 +8,16 @@
 
 [![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://lokibot.site/donate) 
 [![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) 
-[![Download](https://img.shields.io/badge/DOWNLOAD-PLUI-ABD4C2?logo=https%3A%2F%2Fgithub.com%2Fartsvn%2FPocketLoki)](https://link-center.net/640073/plui-v1)
+[![Download](https://img.shields.io/badge/DOWNLOAD-PLUI-ABD4C2)](https://link-target.net/640073/plui-v11)
 
 **Screenshot**:
 
-![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096486965517500416/Screenshot_20230415_010631.jpg)
-![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096489287878463619/Screenshot_20230415_011919.jpg)
-![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096489224645136445/Screenshot_20230415_012225.jpg)
-![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096492972448682104/Screenshot_2023_0415_014954.png)
-![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096500837410422804/Screenshot_20230414_093641.jpg)
-![Screen Shot](https://media.discordapp.net/attachments/1076375984644821004/1096500849812967624/Screenshot_20230414_093646.jpg)
+![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041333.jpg)
+![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041356.jpg)
+![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041547.jpg)
+![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041632.jpg)
+![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041639.jpg)
+![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041804.jpg)
 
 **Features**:
 * Bottom Chat
@@ -25,7 +25,8 @@
 * Clean Wool
 * Clear Water
 * Custom PVP Sounds
-* Dark & Better UI
+* Custom Start Screen (Legend’s UI)
+* Dark UI
 * Invisible Item Frames
 * Lower Fire
 * Lower Shield
