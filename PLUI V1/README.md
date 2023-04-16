@@ -10,14 +10,13 @@
 [![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) 
 [![Download](https://img.shields.io/badge/DOWNLOAD-PLUI-ABD4C2)](https://link-target.net/640073/plui-v11)
 
-**Screenshot**:
+**Showcase**:
 
-![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041333.jpg)
-![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041356.jpg)
-![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041547.jpg)
-![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041632.jpg)
-![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041639.jpg)
-![Screen Shot](https://github.com/artsvn/pocketloki/blob/loki/PLUI%20V1/.ss/Screenshot_20230416_041804.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097081723860295730/Screenshot_20230416_153809.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097081739660238918/Screenshot_20230416_153758.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097081758769491998/Screenshot_20230416_153922.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097081783473946765/Screenshot_20230416_153945.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097081803879227453/Screenshot_20230416_154046.jpg)
 
 **Features**:
 * Bottom Chat
