@@ -12,11 +12,11 @@
 
 **Showcase**:
 
-![Image](https://media.discordapp.net/attachments/1096894008111935644/1097172400426209310/Screenshot_20230416_225058.jpg)
-![Image](https://media.discordapp.net/attachments/1096894008111935644/1097171546423963798/Screenshot_20230416_213801.jpg)
-![Image](https://media.discordapp.net/attachments/1096894008111935644/1097081758769491998/Screenshot_20230416_153922.jpg)
-![Image](https://media.discordapp.net/attachments/1096894008111935644/1097081783473946765/Screenshot_20230416_153945.jpg)
-![Image](https://media.discordapp.net/attachments/1096894008111935644/1097081803879227453/Screenshot_20230416_154046.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097227061678059580/Screenshot_20230417_004537.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097227117416173628/Screenshot_20230417_015106.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097227129755816106/Screenshot_20230417_015204.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097227143144026273/Screenshot_20230417_015302.jpg)
+![Image](https://media.discordapp.net/attachments/1096894008111935644/1097227223506878565/Screenshot_20230417_015429.jpg)
 
 **Features**:
 * Bottom Chat
@@ -41,4 +41,4 @@
 * & more, explore the pack!
 
 **Credits**:
-* [Start Screen UI — LeGend#1687](https://mcpedl.com/legend-s-ui-pack/)
+* [@_marcjones_](https://twitter.com/_marcjones_?lang=en) for his Core UI Concept that I used to change the start screen of this pack.
