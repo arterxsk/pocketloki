@@ -28,6 +28,7 @@
 * Invisible Item Frames
 * Lower Fire
 * Lower Shield
+* New GUI
 * No Particles
 * Quick Crafting
 * Quick Settings
