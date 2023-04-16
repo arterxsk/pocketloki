@@ -25,7 +25,6 @@
 * Clear Water
 * Custom PVP Sounds
 * Custom Start Screen
-* Dark UI
 * Invisible Item Frames
 * Lower Fire
 * Lower Shield
@@ -41,4 +40,4 @@
 * & more, explore the pack!
 
 **Credits**:
-* [@_marcjones_](https://twitter.com/_marcjones_?lang=en) for his Core UI Concept that I used to change the start screen of this pack.
+* [_@marcjones_](https://twitter.com/_marcjones_?lang=en) for his Core UI Concept that I used to change the start screen of this pack.
