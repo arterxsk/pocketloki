@@ -8,7 +8,7 @@
 
 [![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://lokibot.site/donate) 
 [![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) 
-[![Download](https://img.shields.io/badge/DOWNLOAD-PLUI-ABD4C2)](https://link-center.net/640073/plui-v1)
+[![Download](https://ko-fi.com/s/e763cf0c52)](https://link-center.net/640073/plui-v1)
 
 **Showcase**:
 
