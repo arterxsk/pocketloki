@@ -6,9 +6,7 @@
   <b><p align="center">PLUI V1</p></b>
 </p>
 
-[![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://lokibot.site/donate) 
-[![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) 
-[![Download](https://img.shields.io/badge/DOWNLOAD-PLUI-F3D9B1)](https://link-center.net/640073/plui-v1)
+[![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) [![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://lokibot.site/donate)
 
 **Showcase**:
 
@@ -42,3 +40,6 @@
 
 **Credits**:
 * [_@marcjones_](https://twitter.com/_marcjones_?lang=en) for his Core UI Concept that I used to change the start screen of this pack.
+
+**Download Links**:
+> * [![Download](https://img.shields.io/badge/DOWNLOAD-PLUI-F3D9B1)](https://link-center.net/640073/plui-v1)
