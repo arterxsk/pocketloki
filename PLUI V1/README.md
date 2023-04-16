@@ -41,4 +41,4 @@
 * & more, explore the pack!
 
 **Credits**:
-* [Start Screen UI](https://mcpedl.com/legend-s-ui-pack/) – [@Legend077](https://github.com/LeGend077)
+* [Start Screen UI — LeGend#1687](https://mcpedl.com/legend-s-ui-pack/)
