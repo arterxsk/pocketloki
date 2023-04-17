@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/artsvn/PocketLoki">
-    <img src="https://media.discordapp.net/attachments/1096894008111935644/1097607365785833593/icon.png" alt="Logo">
+    <img src="https://media.discordapp.net/attachments/1096894008111935644/1097615536428425309/20230418_041124.png" alt="Logo">
   </a>
   <b><p align="center">PLUI V1</p></b>
 </p>
