@@ -6,7 +6,7 @@
   
 </p>
 
-[![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://lokibot.site/donate) 
+[![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://pocketloki.online/donate) 
 [![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) 
 
 # Tickord Bot: [![PocketLoki](https://img.shields.io/badge/INVITE-A8AAD0?logo=https%3A%2F%2Fmedia.discordapp.net%2Fattachments%2F1082425019218546868%2F1095767985853042970%2Fpack_icon.png)](https://discord.com/api/oauth2/authorize?client_id=1048883477149392928&permissions=8&scope=bot%20applications.commands)
