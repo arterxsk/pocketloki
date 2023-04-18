@@ -33,7 +33,7 @@
 * Quick Settings
 * Reduced Enchantment Glint
 * Short Swords
-* Shorter Grass & Tall Grass
+* Shorter Grass
 * Smaller Crosshair
 * Smooth Glass Variants
 * Smooth Netherite Armor
