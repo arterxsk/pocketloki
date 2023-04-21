@@ -10,7 +10,7 @@
 
 **Showcase**:
 
-![Image](https://media.discordapp.net/attachments/1096894008111935644/1097227061678059580/Screenshot_20230417_004537.jpg)
+![Image](https://cdn.discordapp.com/attachments/1095961096898228234/1099083440583876709/Screenshot_20230422_052049.jpg)
 ![Image](https://cdn.discordapp.com/attachments/1096894008111935644/1097669115008790568/Screenshot_20230418_074322.jpg)
 ![Image](https://media.discordapp.net/attachments/1096894008111935644/1097227117416173628/Screenshot_20230417_015106.jpg)
 ![Image](https://media.discordapp.net/attachments/1096894008111935644/1097227129755816106/Screenshot_20230417_015204.jpg)
