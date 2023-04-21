@@ -37,7 +37,7 @@
 * Smaller Crosshair
 * Smooth Glass Variants
 * Smooth Netherite Armor
-* & more, explore the pack!
+* & more, explore the pack
 
 
 **Download Links**:
