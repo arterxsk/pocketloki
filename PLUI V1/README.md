@@ -3,7 +3,7 @@
   <a href="https://github.com/artsvn/PocketLoki">
     <img src="https://media.discordapp.net/attachments/1096894008111935644/1097615536428425309/20230418_041124.png" alt="Logo">
   </a>
-  <b><p align="center">PLUI V1</p></b>
+  <b><p align="center">PLUI V1.2</p></b>
 </p>
 
 [![Discord](https://img.shields.io/badge/DISCORD-SERVER-A8AAD0)](https://discord.gg/R89XUt7uMa) [![Donate](https://img.shields.io/badge/DONATE-COFFEE-A6C1DF)](https://pocketloki.online/donate)
@@ -27,7 +27,7 @@
 * Invisible Item Frames
 * Lower Fire
 * Lower Shield
-* New GUI
+* New GUI (Light & Dark)
 * No Particles
 * Quick Crafting
 * Quick Settings
@@ -39,8 +39,6 @@
 * Smooth Netherite Armor
 * & more, explore the pack!
 
-**Credits**:
-* [_@marcjones_](https://twitter.com/_marcjones_?lang=en) for his Core UI Concept that I used to change the start screen of this pack.
 
 **Download Links**:
 > Click the button below:
